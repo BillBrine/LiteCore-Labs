@@ -3,3 +3,4 @@ title: LiteCoreLabs
 description: "An Innovative Corporation."
 
 baseurl: /
+markdown: kramdown
